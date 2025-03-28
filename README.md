@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI & Machine Learning (Deep Learning, NLP), 💻 Web development**
 
-- 👯 I’m looking to collaborate on **🔍 Research projects in AI, deep learning, or web technologies**
+- 👯 I’m looking to collaborate on **🔍 Research projects in AI, deep learning**
 
 - 🤝 I’m looking for help with **🎓 Higher studies insights (scholarships, research opportunities)**
 
