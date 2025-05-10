@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif Rahman</h1>
 <h3 align="center">🤖 CS Student | Research Enthusiast | Aspiring Scholar</h3>
 
-- 🌱 I’m currently learning **AI & Machine Learning (Deep Learning, NLP), 💻 Web development**
+- 🌱 I’m currently learning **AI & Machine Learning (Deep Learning, NLP), Web development**
 
 - 👯 I’m looking to collaborate on **🔍 Research projects in AI, deep learning**
 
