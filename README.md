@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asif Rahman</h1>
 <h3 align="center">🤖 CS Student | Research Enthusiast | Aspiring Scholar</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sigma-asif&label=Profile%20views&color=0e75b6&style=flat" alt="sigma-asif" />
-</p>
-
-
 - 🌱 Currently learning: **AI & Machine Learning (Deep Learning, NLP), Web Development**
 
 - 👯 Looking to collaborate on: **🔍 Research projects in AI, Deep Learning**
