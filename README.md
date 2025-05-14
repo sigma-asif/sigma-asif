@@ -5,7 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=sigma-asif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 Currently learning: **AI & Machine Learning (Deep Learning, NLP), Web Development**
+
+- 🌱 Currently learning: **AI & Machine Learning, Web Development**
 
 - 👯 Looking to collaborate on: **🔍 Research projects in AI, Deep Learning**
 
@@ -42,6 +43,27 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
 </p>
+
+---
+
+<h3 align="left">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sigma-asif&show_icons=true&theme=github_dark" alt="Asif's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigma-asif&theme=dark" alt="Asif's GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigma-asif&layout=compact&theme=github_dark" alt="Top languages" />
+</p>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sigma-asif&theme=darkhub" alt="GitHub Trophies" />
+  </a>
+</p>
+
 
 
 
