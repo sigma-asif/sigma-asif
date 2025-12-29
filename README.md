@@ -78,18 +78,10 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sigma-asif&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigma-asif&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sigma-asif&layout=compact&theme=radical&hide_border=true&langs_count=9" alt="Most Used Languages" />
 </p>
 
 ---
-
-<p align="center">
-  <em>"Learning today, leading tomorrow"</em>
-</p>
