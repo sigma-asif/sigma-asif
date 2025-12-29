@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asif Rahman</h1>
 <h3 align="center">🤖 CS Student | Research Enthusiast | Aspiring Scholar</h3>
 
-<p align="center">
-  <em>Exploring AI and building intelligent systems</em>
-</p>
-
 ---
 
 ### 🚀 About Me
