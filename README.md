@@ -81,23 +81,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigma-asif&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sigma-asif&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sigma-asif&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sigma-asif&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- Alternative if above doesn't work -->
-<!--
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigma-asif&theme=radical" alt="GitHub Profile Summary" />
-</p>
--->
 
 ---
 
