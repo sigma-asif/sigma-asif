@@ -1,11 +1,11 @@
-<h3 align="center">CS Student | AI/ML Enthusiast | Deep Learner</h3>
+<h3 align="center"> Deep Learner | AI/ML Enthusiast</h3>
 
 ---
 
 ### About Me
 
-- Guidance on higher studies, scholarships & research opportunities
-- Collaborators for AI & Deep Learning research projects
+- Interested in higher studies, scholarships & research opportunities
+- Open to AI & Deep Learning research collaborations
 - Reach me at: **asif.210108@s.pust.ac.bd**
 
 ---
