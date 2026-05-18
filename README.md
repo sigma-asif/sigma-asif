@@ -1,18 +1,40 @@
-<h1 align="center">Hi 👋, I'm Asif Rahman</h1>
-<h3 align="center">🤖 CS Student | Research Enthusiast | Aspiring Scholar</h3>
+<h1 align="center">Asif Rahman</h1>
+<h3 align="center">CS Student | AI/ML Enthusiast | Deep Learner</h3>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🌱 Currently learning: **AI & Machine Learning (Deep Learning, NLP), Web Development**
-- 👯 Looking to collaborate on: **🔍 Research projects in AI, Deep Learning**
-- 🤝 Seeking insights on: **🎓 Higher studies, scholarships & research opportunities**
-- 📫 Reach me at: **asif.210108@s.pust.ac.bd**
+- Guidance on higher studies, scholarships & research opportunities
+- Collaborators for AI & Deep Learning research projects
+- Reach me at: **asif.210108@s.pust.ac.bd**
 
 ---
 
-### 🌐 Connect with Me
+### Research Interests
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Deep Learning</h4>
+      <ul>
+        <li>Neural networks & architectures</li>
+        <li>Model training & optimization</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Machine Learning</h4>
+      <ul>
+        <li>Algorithms & statistical models</li>
+        <li>Data-driven model development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/asif-rahman-4761552a5/" target="blank">
@@ -22,7 +44,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -74,7 +96,7 @@
 
 ---
 
-### 📊 Most Used Languages
+### Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sigma-asif&layout=compact&theme=radical&hide_border=true&langs_count=9" alt="Most Used Languages" />
