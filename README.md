@@ -1,4 +1,3 @@
-<h1 align="center">Asif Rahman</h1>
 <h3 align="center">CS Student | AI/ML Enthusiast | Deep Learner</h3>
 
 ---
