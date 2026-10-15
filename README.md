@@ -1,35 +1,28 @@
+
 <h3 align="center"> Deep Learner | AI/ML Enthusiast</h3>
 
 ---
 
 ### About Me
 
-- Interested in higher studies, scholarships & research opportunities
-- Open to AI & Deep Learning research collaborations
-- Reach me at: **asif.210108@s.pust.ac.bd**
+I'm a Computer Science and Engineering graduate with a strong interest in the mathematical foundations and practical applications of intelligent systems.
 
----
+My academic and research experience includes deep learning, image-based classification, and language identification from speech and audio signals.
+
+I'm interested in pursuing research opportunities in AI and related fields to develop meaningful solutions that address real-world challenges and improve people's lives.
 
 ### Research Interests
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Deep Learning</h4>
-      <ul>
-        <li>Neural networks & architectures</li>
-        <li>Model training & optimization</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Machine Learning</h4>
-      <ul>
-        <li>Algorithms & statistical models</li>
-        <li>Data-driven model development</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Signal Processing
+- Mathematics
+
+### Beyond Academics
+
+Outside academics, I enjoy traveling, exploring new places, and learning about different cultures.
 
 ---
 
@@ -40,6 +33,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-rahman-4761552a5" height="30" width="40" />
   </a>
 </p>
+
+**Email:** asif.210108@s.pust.ac.bd
 
 ---
 
