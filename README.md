@@ -90,10 +90,13 @@ Outside academics, I enjoy traveling, exploring new places, and learning about d
 
 ---
 
+
 ### Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sigma-asif&layout=compact&theme=radical&hide_border=true&langs_count=9" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sigma-asif&layout=compact&theme=radical&hide_border=true&langs_count=9" alt="Most Used Languages" />
 </p>
+
+---
 
 ---
